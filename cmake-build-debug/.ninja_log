@@ -1,0 +1,8 @@
+# ninja log v5
+12	132	6745736302222758	CMakeFiles/lab.dir/kernels.c.obj	317d2692a17c6de8
+16	141	6745736302378911	CMakeFiles/lab.dir/fcyc.c.obj	f8630a29a3627ad7
+6	455	6745736305545064	CMakeFiles/lab.dir/clock_windows.c.obj	b4650f58fd536250
+1	496	6745736305942824	CMakeFiles/lab.dir/driver.c.obj	9e2be75265e9c59b
+496	618	6745736306992211	lab.exe	7f842915896c1cee
+3	90	6745740529347553	CMakeFiles/lab.dir/kernels.c.obj	317d2692a17c6de8
+91	214	6745740530530377	lab.exe	7f842915896c1cee
